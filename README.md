@@ -1,6 +1,6 @@
-# ContitouchPMS
+# FlexiPMS
 
-> contitouch project management system
+> FlexiPMS is a agile/scrum like project management system
 
 ## Build Setup
 
