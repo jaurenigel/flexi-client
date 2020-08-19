@@ -1,0 +1,30 @@
+{
+  "name": "FlexiPMS",
+  "version": "1.0.0",
+  "description": "FlexiPMS basic agile/scrum like project management system",
+  "author": "Nigel Jaure",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^19.0.2",
+    "@ckeditor/ckeditor5-vue": "^1.0.1",
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.11.0",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "dhtmlx-gantt": "^7.0.5",
+    "element-ui": "^2.4.11",
+    "gantt-elastic": "^1.0.11",
+    "gantt-elastic-header": "^0.1.11",
+    "nuxt": "^2.0.0",
+    "tiptap": "^1.27.1",
+    "tiptap-extensions": "^1.29.1",
+    "vue-gantt-schedule-timeline-calendar": "^1.0.33",
+    "vuedraggable": "^2.23.2"
+  },
+  "devDependencies": {}
+}
